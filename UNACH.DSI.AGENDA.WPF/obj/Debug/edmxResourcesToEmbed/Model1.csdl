@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AgendaBDModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="AgendaBDEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Contactos" EntityType="AgendaBDModel.Contacto" />
+    <EntitySet Name="Usuarios" EntityType="AgendaBDModel.Usuario" />
+  </EntityContainer>
+  <EntityType Name="Contacto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="NombreCompleto" MaxLength="120" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Telefono" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CorreoElectronico" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="FechaNacimiento" Precision="0" />
+    <Property Type="String" Name="Direccion" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Foto" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Sexo" MaxLength="1" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Login" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Contraseña" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

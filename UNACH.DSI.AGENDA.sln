@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WINDOWS", "WINDOWS", "{22B7024A-88BD-482E-B82A-13702FAB2585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNACH.DSI.AGENDA.WPF", "UNACH.DSI.AGENDA.WPF\UNACH.DSI.AGENDA.WPF.csproj", "{586AD26B-B057-472E-8C5A-4AE343FAA761}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DOCUMENTACION", "DOCUMENTACION", "{B9F35567-C8D0-4C22-93B0-11AB9DD49760}"
+	ProjectSection(SolutionItems) = preProject
+		STORYBOARD.pptx = STORYBOARD.pptx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LIBRERIAS", "LIBRERIAS", "{31FF4402-B324-4B65-9052-FC823665A23D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNACH.DSI.LIB", "UNACH.DSI.LIB\UNACH.DSI.LIB.csproj", "{BF1A2E43-DC5A-4E0E-8DEF-F6E77D80FAD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{586AD26B-B057-472E-8C5A-4AE343FAA761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586AD26B-B057-472E-8C5A-4AE343FAA761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586AD26B-B057-472E-8C5A-4AE343FAA761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586AD26B-B057-472E-8C5A-4AE343FAA761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1A2E43-DC5A-4E0E-8DEF-F6E77D80FAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1A2E43-DC5A-4E0E-8DEF-F6E77D80FAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1A2E43-DC5A-4E0E-8DEF-F6E77D80FAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1A2E43-DC5A-4E0E-8DEF-F6E77D80FAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{586AD26B-B057-472E-8C5A-4AE343FAA761} = {22B7024A-88BD-482E-B82A-13702FAB2585}
+		{BF1A2E43-DC5A-4E0E-8DEF-F6E77D80FAD2} = {31FF4402-B324-4B65-9052-FC823665A23D}
+	EndGlobalSection
+EndGlobal

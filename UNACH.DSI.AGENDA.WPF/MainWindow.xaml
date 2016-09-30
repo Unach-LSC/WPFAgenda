@@ -1,0 +1,98 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:LIB="clr-namespace:UNACH.DSI.LIB;assembly=UNACH.DSI.LIB" x:Class="UNACH.DSI.AGENDA.WPF.MainWindow"
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized"  Loaded="Window_Loaded_1" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" x:Name="TituloGrid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="365*"/>
+                <ColumnDefinition Width="152*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <SolidColorBrush Color="{DynamicResource TituloColor}"/>
+            </Grid.Background>
+            <TextBlock Text="Mi Agenda" VerticalAlignment="Center" FontSize="40" Grid.ColumnSpan="2" Margin="0,-2"/>
+        </Grid>
+        <Grid Grid.Row="1" x:Name="BodyGrid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="173*"/>
+            </Grid.RowDefinitions>
+                <Grid.Background>
+                <SolidColorBrush Color="{DynamicResource BodyColor}"/>
+            </Grid.Background>
+                <StackPanel Orientation="Horizontal"  Grid.Row="0" >
+                <TextBox Name="BusquedaTextBox" Height="30" Margin="2,3" Width="200"/>
+                <Button Name="BuscarButton" Content="Buscar" Width="100" Margin="2,3" Click="BuscarButton_Click_1"/>              
+            </StackPanel>
+                <DataGrid Name="ContactosDataGrid" Grid.Row="1" MouseDoubleClick="ContactosDataGrid_MouseDoubleClick_1"/>
+            </Grid>
+            <!--nuevo-->
+            <Grid Grid.Column="1" Background="#2d7d9a" Name="FormularioGrid" Visibility="Collapsed" Width="350">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="DATOS DEL CONTACTO" HorizontalAlignment="Center" FontSize="20"/>
+                <TextBlock Grid.Row="1" Text="Nombre:"/>
+                <TextBlock Grid.Row="5" Text="Correo:"/>
+                <TextBlock Grid.Row="3" Text="Teléfono:"/>
+                <TextBlock Grid.Row="7" Text="Fecha de nacimiento:"/>
+                <TextBlock Grid.Row="9" Text="Dirección:"/>
+                <TextBlock Grid.Row="11" Text="Foto:"/>
+                <TextBlock Grid.Row="13" Text="Sexo:"/>
+                <TextBox Grid.Row="2" Name="NombreTextBox" Margin="2" Height="30"/>
+                <TextBox Grid.Row="4" Name="TelefonoTextBox" Margin="2" Height="30"/>
+                <TextBox Grid.Row="6" Name="CorreoTextBox" Margin="2" Height="30"/>
+                <DatePicker Grid.Row="8" Name="FechaNacimientoDatePicker" Height="30"/>
+                <TextBox Grid.Row="10" Name="DireccionTextBox" Margin="2" Height="30" />
+                <StackPanel Grid.Row="14" Orientation="Horizontal" >
+                    <RadioButton Name="MasculinoRadioButton" Content="Masculino"/>
+                    <RadioButton Name="FemeninoRadioButton" Content="Femenino"/>
+                </StackPanel>
+                    
+                <StackPanel Grid.Row="15" Orientation="Horizontal" HorizontalAlignment="Right" >
+                    <Button Name="GuardarButton" Content="Guardar" Width="100" Height="30" Margin="3,0" Click="GuardarButton_Click_1"/>
+                    <Button Name="CancelarButton" Content="Cancelar" Width="100" Height="30" Margin="3,0" Click="CancelarButton_Click_1"/>
+                </StackPanel>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2" x:Name="MenuGrid">
+            <Grid.Background>
+                <SolidColorBrush Color="{DynamicResource MenuColor}"/>
+            </Grid.Background>
+            <StackPanel Orientation="Horizontal">
+                <LIB:BotonUC Height="60" Titulo="Nuevo" Width="60" Name="NuevoBoton" miClick="NuevoBoton_miClick_1" ImagenBoton="Imagenes/Nuevo.png" Cursor="Hand" />
+                <LIB:BotonUC Height="60" Titulo="Editar"  Width="60" Name="EditarBoton" miClick="EditarBoton_miClick_1" ImagenBoton="Imagenes/Editar.png" Cursor="Hand" />
+                <LIB:BotonUC Height="60" Titulo="Eliminar"  Width="60" Name="EliminarBoton" miClick="EliminarBoton_miClick_1" ImagenBoton="Imagenes/Eliminar.png" Cursor="Hand" />
+                <LIB:BotonUC Height="60" Titulo="Salir"  Width="60" Name="SalirBoton" miClick="SalirBoton_miClick_1" ImagenBoton="Imagenes/Salir.png" Cursor="Hand" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

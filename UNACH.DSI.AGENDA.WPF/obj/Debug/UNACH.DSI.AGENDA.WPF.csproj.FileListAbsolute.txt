@@ -1,0 +1,120 @@
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.exe.config
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.exe
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.pdb
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.csprojResolveAssemblyReference.cache
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\MainWindow.baml
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Seguridad\LoginWindow.baml
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Style.baml
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\MainWindow.g.cs
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Seguridad\LoginWindow.g.cs
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\App.g.cs
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF_MarkupCompile.cache
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.g.resources
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.Properties.Resources.resources
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.csproj.GenerateResource.Cache
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.exe
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.pdb
+c:\users\maestros\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\App.baml
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.LIB.dll
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.LIB.pdb
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\AgendaBD.mdf
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\AgendaBD_log.ldf
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\EntityFramework.dll
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\EntityFramework.xml
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF_Content.g.cs
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.exe.config
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.exe
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\AgendaBD.mdf
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\AgendaBD_log.ldf
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.exe
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\EntityFramework.dll
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.LIB.dll
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.LIB.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\EntityFramework.xml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.csprojResolveAssemblyReference.cache
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\MainWindow.baml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Seguridad\LoginWindow.baml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Style.baml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\App.baml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Seguridad\LoginWindow.g.cs
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\App.g.cs
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF_Content.g.cs
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF_MarkupCompile.cache
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.g.resources
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.Properties.Resources.resources
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.exe.config
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.exe
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.pdb
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\AgendaBD.mdf
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\AgendaBD_log.ldf
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.exe
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.pdb
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\EntityFramework.dll
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.LIB.dll
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.LIB.pdb
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\EntityFramework.xml
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\MainWindow.baml
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Seguridad\LoginWindow.baml
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Style.baml
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\App.baml
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Seguridad\LoginWindow.g.cs
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\App.g.cs
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF_Content.g.cs
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF_MarkupCompile.cache
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.g.resources
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.Properties.Resources.resources
+C:\Users\Alumno\Desktop\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.csproj.GenerateResource.Cache
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.exe.config
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.exe
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.pdb
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\AgendaBD.mdf
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\AgendaBD_log.ldf
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.exe
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.pdb
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\EntityFramework.dll
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.LIB.dll
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.LIB.pdb
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\EntityFramework.xml
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.csprojResolveAssemblyReference.cache
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\MainWindow.baml
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Seguridad\LoginWindow.baml
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Style.baml
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\App.baml
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\MainWindow.g.cs
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Seguridad\LoginWindow.g.cs
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\App.g.cs
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF_Content.g.cs
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF_MarkupCompile.cache
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.g.resources
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.Properties.Resources.resources
+I:\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.csproj.GenerateResource.Cache
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.exe.config
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.exe
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\AgendaBD.mdf
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\AgendaBD_log.ldf
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.exe
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.AGENDA.WPF.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\EntityFramework.dll
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.LIB.dll
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\UNACH.DSI.LIB.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\bin\Debug\EntityFramework.xml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.csprojResolveAssemblyReference.cache
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\MainWindow.baml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Seguridad\LoginWindow.baml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Style.baml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\App.baml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\Seguridad\LoginWindow.g.cs
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\App.g.cs
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF_Content.g.cs
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF_MarkupCompile.cache
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.g.resources
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.Properties.Resources.resources
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Desarrollo de Sistemas de Informacion\UNACH.DSI.AGENDA\UNACH.DSI.AGENDA.WPF\obj\Debug\UNACH.DSI.AGENDA.WPF.csproj.GenerateResource.Cache

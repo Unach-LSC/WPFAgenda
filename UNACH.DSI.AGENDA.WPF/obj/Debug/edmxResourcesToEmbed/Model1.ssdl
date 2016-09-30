@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AgendaBDModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="AgendaBDModelStoreContainer">
+    <EntitySet Name="Contactos" EntityType="AgendaBDModel.Store.Contactos" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Usuarios" EntityType="AgendaBDModel.Store.Usuarios" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Contactos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NombreCompleto" Type="varchar" MaxLength="120" />
+    <Property Name="Telefono" Type="varchar" MaxLength="15" />
+    <Property Name="CorreoElectronico" Type="varchar" MaxLength="100" />
+    <Property Name="FechaNacimiento" Type="date" />
+    <Property Name="Direccion" Type="varchar" MaxLength="150" />
+    <Property Name="Foto" Type="varchar" MaxLength="100" />
+    <Property Name="Sexo" Type="nchar" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Login" Type="varchar" MaxLength="20" />
+    <Property Name="Contraseña" Type="varchar" MaxLength="50" />
+  </EntityType>
+</Schema>

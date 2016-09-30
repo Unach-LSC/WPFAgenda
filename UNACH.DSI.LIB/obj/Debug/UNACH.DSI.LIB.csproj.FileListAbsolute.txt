@@ -1,0 +1,17 @@
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\BotonUC.baml
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\BotonUC.g.cs
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\UNACH.DSI.LIB_MarkupCompile.cache
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\UNACH.DSI.LIB.g.resources
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\bin\Debug\UNACH.DSI.LIB.dll
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\bin\Debug\UNACH.DSI.LIB.pdb
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\UNACH.DSI.LIB.dll
+C:\Users\MAESTROS\documents\visual studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\UNACH.DSI.LIB.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\bin\Debug\UNACH.DSI.LIB.dll
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\bin\Debug\UNACH.DSI.LIB.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\UNACH.DSI.LIB.csprojResolveAssemblyReference.cache
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\BotonUC.baml
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\BotonUC.g.cs
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\UNACH.DSI.LIB_MarkupCompile.cache
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\UNACH.DSI.LIB.g.resources
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\UNACH.DSI.LIB.dll
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\UNACH.DSI.AGENDA\UNACH.DSI.LIB\obj\Debug\UNACH.DSI.LIB.pdb
